@@ -1,0 +1,764 @@
+D:\Backup-BCON\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\Backup-BCON\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\Backup-BCON\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\Backup-BCON\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.Office.Project.Server.Library.dll
+D:\Backup-BCON\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+D:\Backup-BCON\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\Backup-BCON\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\Backup-BCON\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\Backup-BCON\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\abhishek.t\Desktop\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+E:\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+E:\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+E:\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+E:\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+E:\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\Vivek-PC\Desktop\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\abhishek.t\Desktop\ProdEmailCode\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\abhishek.t\Desktop\ProdEmailCode\FInalCOde\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\desktop\Desktop\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\en\Microsoft.IdentityModel.resources.dll
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\Abhishek RMO console\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\en\Microsoft.IdentityModel.resources.dll
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\e2eSendRMOMail\bin\Debug\System.dll
+D:\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\e2eSendRMOMail\bin\Debug\en\Microsoft.IdentityModel.resources.dll
+D:\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+D:\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+E:\RMO\console code\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\System.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\manju\New folder\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\manju\New folder\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+D:\manju\New folder\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CoreCompileInputs.cache
+D:\manju\New folder\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\manju\New folder\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\manju\New folder\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+D:\manju\New folder\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\manju\New folder\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.Office.Project.Server.Library.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+C:\Users\desktop\Downloads\New folder\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\manju and ashish\RMO Console Code 26-10-2018(UPDATED One)\RMO Console Code 26-10-2018(UPDATED One)\manju\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\manju and ashish\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\System.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CoreCompileInputs.cache
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\Manju and Abhishek RMO Console code\E2E\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\checking Error\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\checking Error\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\checking Error\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\checking Error\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\checking Error\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\checking Error\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\Microsoft.Office.Project.Server.Library.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\System.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\checking Error\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\checking Error\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\checking Error\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\checking Error\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\checking Error\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CoreCompileInputs.cache
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+E:\RMO\RMO Server Code 10-08-2018\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\manju\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+D:\manju\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\manju\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\manju\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\manju\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\manju\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\manju\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\manju\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\manju\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\manju\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+D:\manju\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\manju\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\manju\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\manju\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\manju\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\manju\e2eSendRMOMail\bin\Debug\System.dll
+D:\manju\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\manju\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\manju\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\manju\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\manju\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\manju\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\manju\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\manju\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\manju\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CoreCompileInputs.cache
+D:\manju\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\manju\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\manju\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojResolveAssemblyReference.cache
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.Office.Project.Server.Library.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\Console RMO\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CoreCompileInputs.cache
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\Manju and Abhishek RMO Console code\e2eSendRMOMail\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Data.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+C:\Users\admin\Downloads\e2eSendRMOMail\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+D:\Console\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+D:\Console\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+D:\Console\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+D:\Console\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+D:\Console\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+D:\Console\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+D:\Console\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+D:\Console\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+D:\Console\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+D:\Console\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+D:\Console\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+D:\Console\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Console\e2eSendRMOMail\bin\Debug\System.Data.dll
+D:\Console\e2eSendRMOMail\bin\Debug\System.dll
+D:\Console\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+D:\Console\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+D:\Console\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+D:\Console\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+D:\Console\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+D:\Console\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+D:\Console\e2eSendRMOMail\bin\Debug\System.Xml.dll
+D:\Console\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+D:\Console\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CoreCompileInputs.cache
+D:\Console\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+D:\Console\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+D:\Console\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\System.Data.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\System.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\System.Xml.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+C:\Bristlconeppmuatbackup\20 jan 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\System.Data.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\System.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\System.Xml.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+C:\Bristlconeppmuatbackup\4 feb 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\System.Data.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\System.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\System.Xml.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+C:\Users\Pankaj Singh\Desktop\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CoreCompileInputs.cache
+E:\new\Ashish\bristlecone\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+E:\new\Ashish\bristlecone\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+E:\new\Ashish\bristlecone\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.Office.Client.Policy.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.ProjectServer.Client.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\System.Data.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\System.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\System.Xml.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+E:\new\Ashish\bristlecone\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+E:\new\Ashish\bristlecone\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+E:\new\Ashish\bristlecone\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.config
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe.manifest
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.application
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.exe
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\e2eSendRMOMail.pdb
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.CSharp.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\Newtonsoft.Json.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\System.Data.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\System.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\System.IdentityModel.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\System.Net.Http.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\System.Runtime.Serialization.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\System.ServiceModel.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\System.ServiceModel.Web.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\System.Web.Services.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\System.Xml.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\bin\Debug\System.Xml.Linq.dll
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csprojAssemblyReference.cache
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe.manifest
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.application
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.csproj.CopyComplete
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.exe
+C:\Bristlconeppmuatbackup\28 July 2020\e2eSendRMOMail\obj\Debug\e2eSendRMOMail.pdb
